@@ -1,7 +1,6 @@
 // Simulador do microprocessador z80
-// Alunos:
-// Murilo Vital Rondina, Ra: 2152355
-// Rafael Ribas de Lima, Ra: 2461650
+// Murilo Vital Rondina
+// Rafael Ribas de Lima
 
 #include <stdio.h>
 #include <stdlib.h>
